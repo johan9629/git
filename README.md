@@ -1,4 +1,4 @@
-# Objectivos del repositorio
+# Objectivos del repositorio principal
 
 Este es un repositorio de la linea de la justicia
 
