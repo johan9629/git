@@ -5,3 +5,5 @@
 3. Buscar nuevos miembros para la liga
 4. Necesitamos más comida
 5. Hacer un reconocimiento del terreno
+6. puto
+7. otor
